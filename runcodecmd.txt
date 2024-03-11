@@ -1,0 +1,5 @@
+npm run start
+
+truffle develop
+
+web3.eth.accounts.sign("","")

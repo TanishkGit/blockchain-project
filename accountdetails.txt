@@ -1,0 +1,67 @@
+
+0xD923A57453BEef855f217C6e990A1194778457F0      -- admin
+
+0xf73dC34eE10D3c4Ed7399Cf28A3781fDed1941dE     ---- supplier    1
+
+0x9738ac7dDB906fE4d888c3821278136AAa6115b4     -- transporter   2
+
+0x7535d514d5469070d21faddABCA8D1161163dC14     -- manufacturer   3
+
+0xC10a4C94C9a2A6b950B534e70ed83a98BC64a5aC    --wholesaler     4
+
+0x7FCD452d3116e6BcB06cc801D5eD95a450e96BCf       -- distributor   5
+
+
+
+
+--------------------------------
+
+0xeF687cBFb68Da5DC288290817bc519176D0f79F8     -- raw mateial
+
+
+0x3728ABc26c270F4C0607021eb20444a35359D124    --medicine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
